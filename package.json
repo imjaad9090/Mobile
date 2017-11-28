@@ -1,0 +1,39 @@
+{
+  "name": "testing",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^4.5.2",
+    "native-base": "^2.3.3",
+    "react": "16.0.0-beta.5",
+    "react-native": "0.49.3",
+    "react-native-exit-app": "^1.0.0",
+    "react-native-geo-fencing": "^0.1.0",
+    "react-native-gifted-chat": "^0.2.9",
+    "react-native-indicators": "^0.10.0",
+    "react-native-maps": "^0.17.1",
+    "react-native-modal": "^4.1.1",
+    "react-native-router-flux": "^4.0.0-beta.22",
+    "react-native-simple-modal": "^7.0.0",
+    "react-native-spinkit": "^1.1.1",
+    "react-native-toast-native": "^1.2.1"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}

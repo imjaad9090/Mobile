@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapUrlTileManager.m \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert+CoreLocation.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
+  /Users/Mac/Desktop/mock/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapUrlTile.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h \
+  /Users/Mac/Desktop/mock/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapUrlTileManager.h
